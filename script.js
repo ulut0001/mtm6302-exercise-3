@@ -1,7 +1,6 @@
 //Global variables
 
 const $dateInfo = document.getElementById('dateinfo');
-const $maninWindow = document.getElementById('main-window');
 let $fullname = document.getElementById('fullname');
 let $employment = document.getElementById('employment');
 let $skills = document.getElementById('skills');
